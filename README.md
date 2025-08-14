@@ -22,15 +22,15 @@ This application provides a REST API endpoint that:
 
 ## Tech Stack
 
-- **Framework**: Django 5.0.6
-- **API**: Django REST Framework 3.15.1
+- **Framework**: Django 5.2.5
+- **API**: Django REST Framework 3.16.1
 - **Database**: SQLite (development)
 - **External APIs**: NASA APOD API, Wikipedia API
 - **Dependencies**: requests, python-dateutil
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.8+ (tested with Python 3.12.2)
 - pip (Python package installer)
 - Internet connection (for external API calls)
 
